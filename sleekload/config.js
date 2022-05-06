@@ -25,7 +25,7 @@ config.logo_use_image = false
 config.logo_image = "logo.png"
 
 // Text to be shown on logo
-config.logo_text = "SleekLoad"
+config.logo_text = "Death Stars Servers"
 
 // Use the server's name for the logo
 config.logo_servername = true
