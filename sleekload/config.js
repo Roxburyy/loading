@@ -25,7 +25,7 @@ config.logo_use_image = false
 config.logo_image = "logo.png"
 
 // Text to be shown on logo
-config.logo_text = "Death Stars Servers"
+config.logo_text = "Galactic Conquest"
 
 // Use the server's name for the logo
 config.logo_servername = true
@@ -146,7 +146,7 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to Death Stars Servers!",
+	"Welcome to Galactic Conquest Servers!",
 	"We are ONE Galactic Empire.",
 	"Enjoy your stay!",
 ]
