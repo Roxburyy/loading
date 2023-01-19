@@ -71,7 +71,7 @@ config.background_images = [
 	"dt.jpg",
 	"star-wars-tank-trooper.jpg",
 	"empirelogo.jpg",
-	"Stormtrooper_Corps.jpg",
+	"storm.jpg",
 ]
 
 // (Image-background only)
@@ -146,7 +146,7 @@ config.messages_enable = true
 
 // Enter your custom messages below
 config.messages_list = [
-	"Welcome to Galactic Conquest Servers!",
+	"Welcome to Gravity Network Servers!",
 	"We are ONE Galactic Empire.",
 	"Enjoy your stay!",
 ]
